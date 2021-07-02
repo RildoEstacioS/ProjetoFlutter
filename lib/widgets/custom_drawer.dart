@@ -30,7 +30,7 @@ class CustomDrawer extends StatelessWidget {
                         top: 0.0,
                         left: 0.0,
                         child: Text(
-                          "Seja\nBem-Vindo!",
+                          "Seja\nBem-Vindos!",
                           style: TextStyle(
                               fontSize: 34.0, fontWeight: FontWeight.bold),
                         ),
